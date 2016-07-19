@@ -1,0 +1,4 @@
+*.ipynb
+*.json
+*.sublime-project
+*.sublime-workspace
